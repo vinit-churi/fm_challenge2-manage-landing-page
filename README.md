@@ -14,11 +14,7 @@ Thanks for checking out this front-end coding challenge.
 
 The challenge is to build out this landing page and get it looking as close to the design as possible.
 
-## Things I required to learn this landing page
-
-
-
-## Resources I used to learn
+## Things I required to learn to build this landing page
 
 
 
