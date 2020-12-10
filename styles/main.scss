@@ -5,7 +5,12 @@
 @import "./base/utilities";
 
 // components
-// @import './components'
+@import "./components/hero";
+@import "./components/navbar";
+@import "./components/company-info";
+@import "./components/reviews";
+@import "./components/teams";
+@import "./components/footer";
 
 // media queries
 @import "./components/media-queries";
