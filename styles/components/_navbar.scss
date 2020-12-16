@@ -1,0 +1,23 @@
+.flex {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav {
+  font-family: $font-style-primary;
+
+  position: relative;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  & ul {
+    // display: flex;
+    gap: 2rem;
+  }
+}
+
+.capsuleOne {
+  position: absolute;
+  top: -140px;
+  right: -100px;
+  z-index: -10;
+}
