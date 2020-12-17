@@ -16,7 +16,7 @@ The challenge is to build out this landing page and get it looking as close to t
 
 ## Things I required
 
-- making a bootstrap menu
+- making a hamburger menu
 
 - mobile first approach
 
