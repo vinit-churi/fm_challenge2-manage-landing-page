@@ -6,7 +6,7 @@
 .nav {
   // overflow: hidden;
   // width: 100%;
-  // overflow-x: hidden;
+  overflow-x: hidden;
   // overflow-y: visible;
   font-family: $font-style-primary;
 
@@ -19,11 +19,15 @@
 }
 
 .capsuleOne {
-  // overflow-x: hidden;
-  // overflow-y: visible;
-  // overflow: visible;
   position: absolute;
-  top: -140px;
-  right: -100px;
+  top: 0px;
+  right: 0px;
   z-index: -10;
+  overflow-x: hidden;
+
+  & img {
+    position: relative;
+    top: -170px;
+    right: -150px;
+  }
 }
