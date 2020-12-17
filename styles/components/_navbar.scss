@@ -4,18 +4,24 @@
 }
 
 .nav {
+  // overflow: hidden;
+  // width: 100%;
+  // overflow-x: hidden;
+  // overflow-y: visible;
   font-family: $font-style-primary;
 
   position: relative;
   padding-top: 3rem;
   padding-bottom: 3rem;
   & ul {
-    // display: flex;
     gap: 2rem;
   }
 }
 
 .capsuleOne {
+  // overflow-x: hidden;
+  // overflow-y: visible;
+  // overflow: visible;
   position: absolute;
   top: -140px;
   right: -100px;
