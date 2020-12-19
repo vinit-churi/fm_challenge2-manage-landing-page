@@ -14,7 +14,7 @@ Thanks for checking out this front-end coding challenge.
 
 The challenge is to build out this landing page and get it looking as close to the design as possible.
 
-## Things I required
+## Things I Learned
 
 - making a hamburger menu
 
