@@ -4,18 +4,18 @@
 }
 
 .nav {
-  // overflow: hidden;
-  // width: 100%;
-  overflow-x: hidden;
-  // overflow-y: visible;
   font-family: $font-style-primary;
-
   position: relative;
   padding-top: 3rem;
   padding-bottom: 3rem;
   & ul {
     gap: 2rem;
   }
+}
+
+.hero_images {
+  margin-right: 0px;
+  margin-left: auto;
 }
 
 .capsuleOne {

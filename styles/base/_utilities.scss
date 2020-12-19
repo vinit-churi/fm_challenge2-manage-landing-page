@@ -21,9 +21,12 @@ body {
   padding-right: 1.1rem;
   padding-top: 0.6rem;
   padding-bottom: 0.7rem;
+  // display: inline-block;
   border-radius: 100px;
+  height: 40px;
   cursor: pointer;
-  display: inline-block;
+  // display: inline-block;
+  width: 125px;
 }
 
 .btn-primary {
@@ -31,9 +34,24 @@ body {
   color: $neutral-light-gray;
 }
 
+.btn-secondary {
+  background-color: $neutral-pale-red;
+  color: $primary-bright-red;
+}
+
 h1 {
   font-weight: $font-weight-bold;
   font-size: 3.5rem;
+}
+
+h2 {
+  font-weight: $font-weight-bold;
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-weight: $font-weight-medium;
+  font-size: 1.1rem;
 }
 
 // .flex-3{

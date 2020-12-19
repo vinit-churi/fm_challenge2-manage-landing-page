@@ -1,0 +1,21 @@
+.teams {
+  margin-top: 80px;
+  background-color: $primary-bright-red;
+  background-image: url("./../../images/bg-simplify-section-desktop.svg");
+  color: $neutral-pale-red;
+  padding: 40px;
+  & h2 {
+    font-size: 2rem;
+    width: 400px;
+  }
+
+  & .btn {
+    align-self: center;
+    justify-self: end;
+  }
+
+  & .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
